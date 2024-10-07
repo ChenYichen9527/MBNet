@@ -4,8 +4,6 @@
 </center>
 
 
-## Dataset
-
 ## Train
 	python training.py
 
