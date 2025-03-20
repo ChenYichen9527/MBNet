@@ -1,7 +1,7 @@
 # Event-based Motion Deblurring with Blur-aware Reconstruction Filter
 
 <p align="center">
-  <img src=\imgs/left_down_1.jpg" width="400"/>
+  <img src=imgs/left_down_1.jpg" width="400"/>
  </a>
 </p>
 
