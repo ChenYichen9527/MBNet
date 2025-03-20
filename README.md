@@ -1,3 +1,9 @@
+---
+title: Event-based Motion Deblurring with Blur-aware Reconstruction Filter
+created: '2025-03-20T13:13:41.940Z'
+modified: '2025-03-20T13:14:02.349Z'
+---
+
 # Event-based Motion Deblurring with Blur-aware Reconstruction Filter
 
 
@@ -30,3 +36,4 @@ In addition, our method can be extended to blurry image super-resolution and ach
 
  ## Test
 	python testing.py
+  
