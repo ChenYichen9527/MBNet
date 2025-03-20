@@ -1,7 +1,7 @@
 # Event-based Motion Deblurring with Blur-aware Reconstruction Filter
 
 <p align="center">
-  <img src=\imgs/left_down_1.jpg" alt="Transafer" width="400"/>
+  <img src=\imgs/left_down_1.jpg" width="400"/>
  </a>
 </p>
 
@@ -17,7 +17,7 @@ The network, after incorporating spatial residual guidance, has significantly en
 In addition, our method can be extended to blurry image super-resolution and achieves impressive performance.
 
 <p align="center">
-  <img src="\imgs/framework.jpg" alt="Transafer" width="600"/>
+  <img src="\imgs/framework.jpg"  width="600"/>
  </a>
 </p>
 
@@ -33,7 +33,7 @@ In addition, our method can be extended to blurry image super-resolution and ach
 ---
   ## 📊 Visualization results
 <p align="center">
-  <img src="\imgs/SOTA_gopro.jpg" alt="Transafer" width="600"/>
+  <img src="\imgs/SOTA_gopro.jpg"  width="600"/>
  </a>
 </p>
 
