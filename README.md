@@ -17,7 +17,7 @@ The network, after incorporating spatial residual guidance, has significantly en
 In addition, our method can be extended to blurry image super-resolution and achieves impressive performance.
 
 <p align="center">
-  <img src="C:\Users\90597\Desktop\MBNet\第二次审稿后修改\TCSVT_GITHUB\MBNet\imgs/framework.jpg" alt="Transafer" width="600"/>
+  <img src="\imgs/framework.jpg" alt="Transafer" width="600"/>
  </a>
 </p>
 
